@@ -1,0 +1,14 @@
+h1{
+    font-weight: 900;
+    font-size: large;
+}
+
+body{
+    background-color: aqua;
+}
+
+p{
+    color: black;
+    font-size: medium;
+    font-weight: 400;
+}
